@@ -1,5 +1,5 @@
 #include <stdio.h>
-                                                                                                                             int main()
+int main()
 {
     int n, i;
     int ecount = 0, ocount = 0;
